@@ -45,7 +45,7 @@ i++;
 }
 }
 
-if (i != high)
+if (i != high && array[i] != array[high])
 {
 swap(&array[i], &array[high]);
 print_array(array, size);
