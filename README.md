@@ -10,3 +10,4 @@ This project covers the implementation of various sorting algorithms in C and th
 * `0-bubble_sort.c`: Bubble sort algorithm
 * `0-O`: Time complexities for Bubble sort
 
+1
